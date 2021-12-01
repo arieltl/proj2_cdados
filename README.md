@@ -18,3 +18,6 @@
  - No repostório é possível de se encontrar diversos arquivos, sendo o arquivo projeto.ipynb o arquivo oficial de onde foram feitas as análises do datset test_scores.csv
  
  - O arquivo projeto_old.ipynb representa a tentaiva anterior do projeto com um tema diferente, este porém que teve que ser abandanado devido a complexidade de se obter um modelo compativel com o tipo de suas variáveis
+ 
+### Obs:
+- Necessario python 3.8. Python inferior ao 3.8 resultará em erro de sintaxe ao tentar rodar algumas células.
